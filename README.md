@@ -51,12 +51,3 @@ Inclui relatório executivo, insights estratégicos e visualizações de apoio.
 🔄 Projetos com Inteligência Artificial aplicada a dados  
 
 ---
-
-## 📬 Conecte-se comigo  
-
-📌 [LinkedIn]([https://www.linkedin.com/in/aasouzaconsult/](https://www.linkedin.com/in/george-duarte/))  
-📌 [GitHub](https://github.com/aasouzaconsult)  
-
----
-
-✨ Este portfólio está em constante evolução. Fique à vontade para acompanhar as atualizações e conferir novos projetos!
