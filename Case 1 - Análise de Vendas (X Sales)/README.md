@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados — Case 1 XSales
+# Projeto de Análise de Dados — Case 1 - Análise de Vendas (XSales)
 
 A XSales é uma empresa fictícia de grande porte presente em 5 países: Alemanha, França, Canadá, EUA e Chile.  
 Atende uma ampla cadeia de mercado, tendo como clientes desde pequenas empresas até multinacionais.  
