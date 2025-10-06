@@ -2,6 +2,9 @@
 
 This dataset contains around 3,530 coffee sales transactions recorded in a cafe. It gives info about both customer and transaction details like time of purchase, method of payment, beverage type, and amount spent.
 
+<p align="center">
+<img width="600" height="400" alt="Kaggle_Logo svg" src="https://github.com/user-attachments/assets/37ac893a-b735-4d44-98fd-1e681bb34ff4" />
+</p>
 
 This dataset is available on Kaggle - https://www.kaggle.com/datasets/anassarfraz13/coffee-sales-dataset/data
 
